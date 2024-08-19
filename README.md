@@ -1,5 +1,5 @@
 
-##Sudoku Solver Project
+## Sudoku Solver Project
 
 This project is centered on solving Sudoku puzzles using two primary algorithms: backtracking and exhaustive search. Implemented in Python, the project leverages object-oriented principles and the numpy library for efficient grid management and manipulation.
 Core Objectives:
